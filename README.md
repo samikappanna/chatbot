@@ -1,4 +1,4 @@
-CDP Chatbot
+##CDP Chatbot
 
 This project is a chatbot designed to answer questions related to **Customer Data Platforms (CDPs)**, including **Segment, mParticle, Lytics, and Zeotap**. The chatbot ensures relevance by filtering out unrelated queries and provides real-time streaming responses.
 
