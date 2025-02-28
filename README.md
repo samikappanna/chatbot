@@ -26,7 +26,7 @@ Make sure you have Python 3.8+ installed.
 ### Install Dependencies
 
 ```sh
-pip install streamlit langchain_ollama sentence-transformers
+pip install streamlit langchain langchain_ollama sentence_transformers
 ```
 
 ### Download and Setup Ollama
