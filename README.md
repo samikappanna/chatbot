@@ -23,13 +23,6 @@ This project is a chatbot designed to answer questions related to **Customer Dat
 
 Make sure you have Python 3.8+ installed.
 
-### Setup Virtual Environment
-
-```sh
-python -m venv venv
-source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-```
-
 ### Install Dependencies
 
 ```sh
